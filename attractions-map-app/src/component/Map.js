@@ -28,7 +28,7 @@ const haversineDistance = (coords1, coords2) => {
 const Map = () => {
   const [locations, setLocations] = useState([]);
   const [nearbyLocations, setNearbyLocations] = useState([]);
-  const [radius, setRadius] = useState(5); // Default radius in kilometers
+  const [radius, setRadius] = useState(1); // Default radius in kilometers
   const userCoords = { lat: 13.756, long: 100.502, id: 1, description: 'Current location' }; // temporary fixed location
   const iconMarkup = renderToStaticMarkup(<i className=" fa fa-map-marker-alt fa-3x" />);
   const currentMarkerIcon = divIcon({
@@ -52,12 +52,14 @@ const Map = () => {
   return (
     <div>
       <h3>Find Nearby Locations (within {radius} km)</h3>
-      <input
-        type="number"
-        value={radius}
-        onChange={(e) => setRadius(e.target.value)}
-        placeholder="Enter radius in km"
-      />
+      <div style={{display: 'flex', margin: '10px'}}>
+        <input
+          type="number"
+          value={radius}
+          onChange={(e) => setRadius(e.target.value)}
+          placeholder="Enter radius in km"
+        />
+      </div>
       <MapContainer center={[userCoords.lat, userCoords.long]} zoom={13} style={{ height: '100vh', width: '100%' }}>
         <TileLayer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
