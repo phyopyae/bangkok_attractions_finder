@@ -1,0 +1,4322 @@
+[
+  {
+    "no": 1,
+    "code_sign": "2021-01 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Pathumwanaram Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.745202,
+    "long": 100.537343
+  },
+  {
+    "no": 2,
+    "code_sign": "2021-02 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lord Brahma",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.744415,
+    "long": 100.540497
+  },
+  {
+    "no": 3,
+    "code_sign": "2021-03 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Boromniwat Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.751959,
+    "long": 100.520061
+  },
+  {
+    "no": 4,
+    "code_sign": "2021-04 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mary Luk Rosary Temple (Kanwar)",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731833,
+    "long": 100.513611
+  },
+  {
+    "no": 5,
+    "code_sign": "2021-06 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchawong Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.742047,
+    "long": 100.506653
+  },
+  {
+    "no": 6,
+    "code_sign": "2021-07 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lat Krabang Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.724324,
+    "long": 100.753097
+  },
+  {
+    "no": 7,
+    "code_sign": "2021-11 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Pathumkongkha Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.736466,
+    "long": 100.51108
+  },
+  {
+    "no": 8,
+    "code_sign": "2021-05 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sampeng",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.742324,
+    "long": 100.506899
+  },
+  {
+    "no": 9,
+    "code_sign": "2021-08 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Samphanthawongsaram Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738129,
+    "long": 100.510532
+  },
+  {
+    "no": 10,
+    "code_sign": "2021-09 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Traimit Wittayaram Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.737556,
+    "long": 100.513871
+  },
+  {
+    "no": 11,
+    "code_sign": "2021-10 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Chakkrawat Rachawas Ratchaworamahawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.740558,
+    "long": 100.50283
+  },
+  {
+    "no": 12,
+    "code_sign": "2021-12 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Chana Songkhram Ratchawora Mahawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.760195,
+    "long": 100.496062
+  },
+  {
+    "no": 13,
+    "code_sign": "2021-13 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Bophitphimuk Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.741511,
+    "long": 100.502469
+  },
+  {
+    "no": 14,
+    "code_sign": "2022-14 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Phai Ngoen Chotanaram",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.701142,
+    "long": 100.524402
+  },
+  {
+    "no": 15,
+    "code_sign": "2022-16 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Plai Noen Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.721874,
+    "long": 100.554526
+  },
+  {
+    "no": 16,
+    "code_sign": "2022-15 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchasingkhon Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.70524,
+    "long": 100.505932
+  },
+  {
+    "no": 17,
+    "code_sign": "2022-17 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mahapruttharam Worawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.733038,
+    "long": 100.515877
+  },
+  {
+    "no": 18,
+    "code_sign": "2022-18 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Yannawa Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.716924,
+    "long": 100.514344
+  },
+  {
+    "no": 19,
+    "code_sign": "2022-19 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "WAT PROKYANNAWA WAT PROKYANNAWA",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.713388,
+    "long": 100.521509
+  },
+  {
+    "no": 20,
+    "code_sign": "2022-20 July 2",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Thammongkol Thaobunyanonwihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.687896,
+    "long": 100.614906
+  },
+  {
+    "no": 21,
+    "code_sign": "2022-04 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kamalul Islam Mosque ",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.834754,
+    "long": 100.772248
+  },
+  {
+    "no": 22,
+    "code_sign": "2022-06 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratsaratratham Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.819489,
+    "long": 100.696544
+  },
+  {
+    "no": 23,
+    "code_sign": "2022-07 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Ratniyomtham",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.884318,
+    "long": 100.624771
+  },
+  {
+    "no": 24,
+    "code_sign": "2022-01 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Phra Si Mahathat Woramahawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.873238,
+    "long": 100.59514
+  },
+  {
+    "no": 25,
+    "code_sign": "2022-03 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phra Mae Kuan Yin Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.810145,
+    "long": 100.594505
+  },
+  {
+    "no": 26,
+    "code_sign": "2022-02 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lat Phrao Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.804085,
+    "long": 100.590491
+  },
+  {
+    "no": 27,
+    "code_sign": "2022-05 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Miniature Ship Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.793958,
+    "long": 100.7158
+  },
+  {
+    "no": 28,
+    "code_sign": "2022-08 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lak Si Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.888309,
+    "long": 100.582839
+  },
+  {
+    "no": 29,
+    "code_sign": "2022-09 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chatuchak Market",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.802102,
+    "long": 100.552098
+  },
+  {
+    "no": 30,
+    "code_sign": "2022-15 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "wooden road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.810263,
+    "long": 100.531164
+  },
+  {
+    "no": 31,
+    "code_sign": "2022-20 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Palace of Krom Luang Chumphon Khet Udomsak",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.76307,
+    "long": 100.513582
+  },
+  {
+    "no": 32,
+    "code_sign": "2022-10 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "railway park",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.813436,
+    "long": 100.555063
+  },
+  {
+    "no": 33,
+    "code_sign": "2022-18 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Rachathiwat Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.775217,
+    "long": 100.504916
+  },
+  {
+    "no": 34,
+    "code_sign": "2022-11 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chatuchak Park",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.809957,
+    "long": 100.557867
+  },
+  {
+    "no": 35,
+    "code_sign": "2022-12 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Geology Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.76352,
+    "long": 100.526604
+  },
+  {
+    "no": 36,
+    "code_sign": "2022-13 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Soi Thong",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.813726,
+    "long": 100.518002
+  },
+  {
+    "no": 37,
+    "code_sign": "2022-14 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Saphan Mai Community (Ban Hua Khon)",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.817772,
+    "long": 100.535948
+  },
+  {
+    "no": 38,
+    "code_sign": "2022-16 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Benchamabophit Dusitwanaram Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.766284,
+    "long": 100.514694
+  },
+  {
+    "no": 39,
+    "code_sign": "2022-17 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Thewaratkunchornwihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.772131,
+    "long": 100.502385
+  },
+  {
+    "no": 40,
+    "code_sign": "2022-19 July 1",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Suan Pakkad Palace Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.757025,
+    "long": 100.537574
+  },
+  {
+    "no": 41,
+    "code_sign": "NO-01-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Customs Department",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.71379,
+    "long": 100.564924
+  },
+  {
+    "no": 42,
+    "code_sign": "NO-02-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ministry of Defense",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752261,
+    "long": 100.493671
+  },
+  {
+    "no": 43,
+    "code_sign": "NO-03-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ministry of Interior",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.750966,
+    "long": 100.496462
+  },
+  {
+    "no": 44,
+    "code_sign": "NO-04-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lao Ban Flute",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731498,
+    "long": 100.490499
+  },
+  {
+    "no": 45,
+    "code_sign": "NO-05-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Khu Mueang Derm",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.749702,
+    "long": 100.496151
+  },
+  {
+    "no": 46,
+    "code_sign": "NO-06-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Khu Mueang Derm",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.760855,
+    "long": 100.491946
+  },
+  {
+    "no": 47,
+    "code_sign": "NO-07-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Chak Phra",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.778263,
+    "long": 100.465095
+  },
+  {
+    "no": 48,
+    "code_sign": "NO-08-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Thawi Watthana",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.751453,
+    "long": 100.352714
+  },
+  {
+    "no": 49,
+    "code_sign": "NO-09-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Thawi Watthana",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.693104,
+    "long": 100.380612
+  },
+  {
+    "no": 50,
+    "code_sign": "NO-10-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Thawi Watthana",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.707608,
+    "long": 100.373755
+  },
+  {
+    "no": 51,
+    "code_sign": "NO-11-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bangkok Yai Canal",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.722322,
+    "long": 100.477075
+  },
+  {
+    "no": 52,
+    "code_sign": "NO-12-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Prem Prachakorn",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.773294,
+    "long": 100.518839
+  },
+  {
+    "no": 53,
+    "code_sign": "NO-13-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Phadung Krung Kasem",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.73183,
+    "long": 100.515318
+  },
+  {
+    "no": 54,
+    "code_sign": "NO-14-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Phasi Charoen",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.677812,
+    "long": 100.339619
+  },
+  {
+    "no": 55,
+    "code_sign": "NO-15-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Phasi Charoen",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.695361,
+    "long": 100.392519
+  },
+  {
+    "no": 56,
+    "code_sign": "NO-16-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Phasi Charoen",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.711576,
+    "long": 100.43865
+  },
+  {
+    "no": 57,
+    "code_sign": "NO-17-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Sathorn",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.725925,
+    "long": 100.544068
+  },
+  {
+    "no": 58,
+    "code_sign": "NO-18-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Lod Wat Buranasiri",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756575,
+    "long": 100.495371
+  },
+  {
+    "no": 59,
+    "code_sign": "NO-19-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Lod Wat Ratchabophit",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.748482,
+    "long": 100.496487
+  },
+  {
+    "no": 60,
+    "code_sign": "NO-20-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chulalongkorn University",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.73865,
+    "long": 100.529783
+  },
+  {
+    "no": 61,
+    "code_sign": "NO-21-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Soi Suan Phlu",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.723465,
+    "long": 100.536668
+  },
+  {
+    "no": 62,
+    "code_sign": "NO-22-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phlu Market",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.722322,
+    "long": 100.477075
+  },
+  {
+    "no": 63,
+    "code_sign": "NO-23-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thawornwathu Building",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.754999,
+    "long": 100.491947
+  },
+  {
+    "no": 64,
+    "code_sign": "NO-24-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kalyanamaitri Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.751145,
+    "long": 100.495168
+  },
+  {
+    "no": 65,
+    "code_sign": "NO-25-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Be lazy.",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.797391,
+    "long": 100.521119
+  },
+  {
+    "no": 66,
+    "code_sign": "NO-26-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kamphaeng Phet Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.797964,
+    "long": 100.550588
+  },
+  {
+    "no": 67,
+    "code_sign": "NO-27-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chiang Mai Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731251,
+    "long": 100.505376
+  },
+  {
+    "no": 68,
+    "code_sign": "NO-28-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Dinso Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756192,
+    "long": 100.501584
+  },
+  {
+    "no": 69,
+    "code_sign": "NO-29-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tha Din Daeng Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.732002,
+    "long": 100.50213
+  },
+  {
+    "no": 70,
+    "code_sign": "NO-30-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Nakhon Chai Si Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.785466,
+    "long": 100.51169
+  },
+  {
+    "no": 71,
+    "code_sign": "NO-31-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Nakhon Sawan Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756861,
+    "long": 100.506499
+  },
+  {
+    "no": 72,
+    "code_sign": "NO-32-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phadungdao Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.741087,
+    "long": 100.511356
+  },
+  {
+    "no": 73,
+    "code_sign": "NO-33-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Rama 4 Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.732304,
+    "long": 100.529504
+  },
+  {
+    "no": 74,
+    "code_sign": "NO-34-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phra Sumen Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756367,
+    "long": 100.505075
+  },
+  {
+    "no": 75,
+    "code_sign": "NO-35-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phetkasem Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.707724,
+    "long": 100.373604
+  },
+  {
+    "no": 76,
+    "code_sign": "NO-36-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phetkasem Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.704801,
+    "long": 100.332613
+  },
+  {
+    "no": 77,
+    "code_sign": "NO-37-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchadamnoen Nok Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.767981,
+    "long": 100.511176
+  },
+  {
+    "no": 78,
+    "code_sign": "NO-38-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchawithi Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.765192,
+    "long": 100.537401
+  },
+  {
+    "no": 79,
+    "code_sign": "NO-39-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Vibhavadi Rangsit Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.952089,
+    "long": 100.61979
+  },
+  {
+    "no": 80,
+    "code_sign": "NO-40-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sathorn Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.720183,
+    "long": 100.525161
+  },
+  {
+    "no": 81,
+    "code_sign": "NO-41-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thip Sam Hang Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.761055,
+    "long": 100.499668
+  },
+  {
+    "no": 82,
+    "code_sign": "NO-42-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Silom Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.722402,
+    "long": 100.517603
+  },
+  {
+    "no": 83,
+    "code_sign": "NO-43-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sukhumvit Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731872,
+    "long": 100.567499
+  },
+  {
+    "no": 84,
+    "code_sign": "NO-44-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sukhothai Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.776853,
+    "long": 100.520244
+  },
+  {
+    "no": 85,
+    "code_sign": "NO-45-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchawaradit Pier",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.749815,
+    "long": 100.489491
+  },
+  {
+    "no": 86,
+    "code_sign": "NO-46-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tha Wasukri",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.773612,
+    "long": 100.50612
+  },
+  {
+    "no": 87,
+    "code_sign": "NO-47-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Government House",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763858,
+    "long": 100.512648
+  },
+  {
+    "no": 88,
+    "code_sign": "NO-48-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "bicycle house",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.795049,
+    "long": 100.456294
+  },
+  {
+    "no": 89,
+    "code_sign": "NO-49-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Baan Chao Phraya",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763371,
+    "long": 100.495151
+  },
+  {
+    "no": 90,
+    "code_sign": "NO-50-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Baan Phra Athit",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763162,
+    "long": 100.494911
+  },
+  {
+    "no": 91,
+    "code_sign": "NO-51-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "house museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.797145,
+    "long": 100.391747
+  },
+  {
+    "no": 92,
+    "code_sign": "NO-52-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "christian church",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.724216,
+    "long": 100.534886
+  },
+  {
+    "no": 93,
+    "code_sign": "NO-53-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Assumption Church",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.723715,
+    "long": 100.515266
+  },
+  {
+    "no": 94,
+    "code_sign": "NO-54-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Fortress of Passamit",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.730893,
+    "long": 100.509725
+  },
+  {
+    "no": 95,
+    "code_sign": "NO-55-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phra Sumen Fort",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763675,
+    "long": 100.495608
+  },
+  {
+    "no": 96,
+    "code_sign": "NO-56-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mahakan Fort",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.755814,
+    "long": 100.505458
+  },
+  {
+    "no": 97,
+    "code_sign": "NO-57-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phaya Thai Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.767623,
+    "long": 100.532425
+  },
+  {
+    "no": 98,
+    "code_sign": "NO-58-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bangkok National Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.757537,
+    "long": 100.492523
+  },
+  {
+    "no": 99,
+    "code_sign": "NO-59-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "National Museum of Art Gallery",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.758863,
+    "long": 100.493661
+  },
+  {
+    "no": 100,
+    "code_sign": "NO-60-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Air Force Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.919555,
+    "long": 100.622439
+  },
+  {
+    "no": 101,
+    "code_sign": "NO-61-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chao Phraya Bodindecha Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.770722,
+    "long": 100.614936
+  },
+  {
+    "no": 102,
+    "code_sign": "NO-62-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Geology Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763055,
+    "long": 100.526357
+  },
+  {
+    "no": 103,
+    "code_sign": "NO-63-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thai Labor Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.753055,
+    "long": 100.549362
+  },
+  {
+    "no": 104,
+    "code_sign": "NO-64-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Suan Pakkad Palace Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756758,
+    "long": 100.537492
+  },
+  {
+    "no": 105,
+    "code_sign": "NO-65-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thai Prosecutor's Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.819497,
+    "long": 100.574888
+  },
+  {
+    "no": 106,
+    "code_sign": "NO-66-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "White Building Mosque",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.73651,
+    "long": 100.502433
+  },
+  {
+    "no": 107,
+    "code_sign": "NO-67-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ban U Mosque",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.720429,
+    "long": 100.514297
+  },
+  {
+    "no": 108,
+    "code_sign": "NO-68-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mira Chuddin Mosque",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.725263,
+    "long": 100.522968
+  },
+  {
+    "no": 109,
+    "code_sign": "NO-69-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Harun Mosque",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.725014,
+    "long": 100.515065
+  },
+  {
+    "no": 110,
+    "code_sign": "NO-70-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chao Phraya River ",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.769548,
+    "long": 100.495967
+  },
+  {
+    "no": 111,
+    "code_sign": "NO-71-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chao Phraya River",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.781807,
+    "long": 100.501
+  },
+  {
+    "no": 112,
+    "code_sign": "NO-72-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Pune crematorium intersection",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752219,
+    "long": 100.505424
+  },
+  {
+    "no": 113,
+    "code_sign": "NO-73-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Royal Athletics Club",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.740084,
+    "long": 100.535138
+  },
+  {
+    "no": 114,
+    "code_sign": "NO-74-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "St. Louis Hospital",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.720163,
+    "long": 100.525097
+  },
+  {
+    "no": 115,
+    "code_sign": "NO-75-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lerdsin Hospital",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.722402,
+    "long": 100.517603
+  },
+  {
+    "no": 116,
+    "code_sign": "NO-76-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Vajira Hospital",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.780185,
+    "long": 100.509194
+  },
+  {
+    "no": 117,
+    "code_sign": "Th01-025-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Vajiravudh Wittayalai School",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.777236,
+    "long": 100.519087
+  },
+  {
+    "no": 118,
+    "code_sign": "NO-77-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chandrakasem Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.764978,
+    "long": 100.509762
+  },
+  {
+    "no": 119,
+    "code_sign": "NO-78-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bang Khun Phrom Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.767474,
+    "long": 100.500259
+  },
+  {
+    "no": 120,
+    "code_sign": "NO-79-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Parusakawan Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.768108,
+    "long": 100.511149
+  },
+  {
+    "no": 121,
+    "code_sign": "NO-80-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kanmatuyaram Day",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.742342,
+    "long": 100.50843
+  },
+  {
+    "no": 122,
+    "code_sign": "NO-81-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kalyanamitra Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.739141,
+    "long": 100.491566
+  },
+  {
+    "no": 123,
+    "code_sign": "NO-82-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chong Nonsi Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.692852,
+    "long": 100.545782
+  },
+  {
+    "no": 124,
+    "code_sign": "NO-83-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Boromsathon (Wat Don)",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.713576,
+    "long": 100.516626
+  },
+  {
+    "no": 125,
+    "code_sign": "NO-84-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tri Thotsathep Worawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.761613,
+    "long": 100.503698
+  },
+  {
+    "no": 126,
+    "code_sign": "NO-85-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Thepthidaram Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.753326,
+    "long": 100.504758
+  },
+  {
+    "no": 127,
+    "code_sign": "NO-86-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Makut",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.765221,
+    "long": 100.507476
+  },
+  {
+    "no": 128,
+    "code_sign": "Th30-004-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Our Lady of Fatima Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.759961,
+    "long": 100.555658
+  },
+  {
+    "no": 129,
+    "code_sign": "NO-87-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchanadda Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.755082,
+    "long": 100.505133
+  },
+  {
+    "no": 130,
+    "code_sign": "NO-88-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Sang Krachai Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.73396,
+    "long": 100.484117
+  },
+  {
+    "no": 131,
+    "code_sign": "NO-89-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Samakkhitham",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.784517,
+    "long": 100.599119
+  },
+  {
+    "no": 132,
+    "code_sign": "NO-90-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Suthiwararam Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.712666,
+    "long": 100.51253
+  },
+  {
+    "no": 133,
+    "code_sign": "NO-91-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Suwannaram Ratchaworawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763489,
+    "long": 100.477071
+  },
+  {
+    "no": 134,
+    "code_sign": "NO-92-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Hong Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738965,
+    "long": 100.488321
+  },
+  {
+    "no": 135,
+    "code_sign": "NO-93-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lak Si Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.887807,
+    "long": 100.582518
+  },
+  {
+    "no": 136,
+    "code_sign": "NO-94-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Guan Yu Shrine",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.737515,
+    "long": 100.500062
+  },
+  {
+    "no": 137,
+    "code_sign": "NO-95-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kuan Yin Shrine (Guan An Keng)",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.740359,
+    "long": 100.492812
+  },
+  {
+    "no": 138,
+    "code_sign": "NO-96-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "King Taksin Shrine",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738714,
+    "long": 100.487965
+  },
+  {
+    "no": 139,
+    "code_sign": "NO-97-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "City Pillar Shrine",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752392,
+    "long": 100.493762
+  },
+  {
+    "no": 140,
+    "code_sign": "NO-98-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "customs",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.724865,
+    "long": 100.514631
+  },
+  {
+    "no": 141,
+    "code_sign": "NO-99-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "science center",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.721167,
+    "long": 100.582667
+  },
+  {
+    "no": 142,
+    "code_sign": "NO-100-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Saovabha Institute",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731578,
+    "long": 100.532423
+  },
+  {
+    "no": 143,
+    "code_sign": "NO-101-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Hua Lamphong Railway Station",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738224,
+    "long": 100.516428
+  },
+  {
+    "no": 144,
+    "code_sign": "NO-102-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Teochew Association of Thailand",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.712324,
+    "long": 100.524103
+  },
+  {
+    "no": 145,
+    "code_sign": "NO-103-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tekka Jijinko Association",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.730758,
+    "long": 100.506986
+  },
+  {
+    "no": 146,
+    "code_sign": "NO-104-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "King Suek Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.748991,
+    "long": 100.516774
+  },
+  {
+    "no": 147,
+    "code_sign": "NO-105-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Pathom Boromrachanusorn Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738336,
+    "long": 100.497288
+  },
+  {
+    "no": 148,
+    "code_sign": "NO-106-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "western cemetery",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.705661,
+    "long": 100.506417
+  },
+  {
+    "no": 149,
+    "code_sign": "NO-107-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sathian Dhammasathan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.856518,
+    "long": 100.640915
+  },
+  {
+    "no": 150,
+    "code_sign": "NO-108-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Queen Sirikit Art Gallery",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756403,
+    "long": 100.505019
+  },
+  {
+    "no": 151,
+    "code_sign": "NO-109-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "National Library",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.771698,
+    "long": 100.505182
+  },
+  {
+    "no": 152,
+    "code_sign": "NO-110-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Niall Hailey Library",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.727335,
+    "long": 100.523261
+  },
+  {
+    "no": 153,
+    "code_sign": "NO-111-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "national monument",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.952089,
+    "long": 100.61979
+  },
+  {
+    "no": 154,
+    "code_sign": "NO-112-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chao Phraya Bodindecha (Sing Singhaseni) Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.770739,
+    "long": 100.615009
+  },
+  {
+    "no": 155,
+    "code_sign": "NO-113-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chaloem Phrakiat Park",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.73621,
+    "long": 100.499772
+  },
+  {
+    "no": 156,
+    "code_sign": "Th30-004-2547-65",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Temple of Our Lady of Fatima",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.759961,
+    "long": 100.555658
+  },
+  {
+    "no": 157,
+    "code_sign": "Th38-002-2547-65",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Air Force Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.919757,
+    "long": 100.622064
+  },
+  {
+    "no": 158,
+    "code_sign": "Th38-003-2547-65",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "national monument",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.952058,
+    "long": 100.619796
+  },
+  {
+    "no": 159,
+    "code_sign": "Th41-006-2547-65",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Customs Department",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.713797,
+    "long": 100.565045
+  },
+  {
+    "no": 160,
+    "code_sign": "Th22-059-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ministry of Defense",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752234,
+    "long": 100.493691
+  },
+  {
+    "no": 161,
+    "code_sign": "Th22-060-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ministry of Interior",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.750991,
+    "long": 100.496497
+  },
+  {
+    "no": 162,
+    "code_sign": "Th22-061-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Khu Mueang Derm",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.749702,
+    "long": 100.496151
+  },
+  {
+    "no": 163,
+    "code_sign": "Th22-065-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Lod (Wat Buranasiri)",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.75658,
+    "long": 100.495368
+  },
+  {
+    "no": 164,
+    "code_sign": "Th22-067-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thawornwatthu Building (next to Silpakorn University)",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.754766,
+    "long": 100.491882
+  },
+  {
+    "no": 165,
+    "code_sign": "Th22-067-2547-65",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kalyanamaitri Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.751007,
+    "long": 100.493949
+  },
+  {
+    "no": 166,
+    "code_sign": "Th22-068-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Dinso Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756071,
+    "long": 100.501671
+  },
+  {
+    "no": 167,
+    "code_sign": "Th22-070-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phra Sumen Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756403,
+    "long": 100.505019
+  },
+  {
+    "no": 168,
+    "code_sign": "Th22-071-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phra Athit Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756313,
+    "long": 100.505101
+  },
+  {
+    "no": 169,
+    "code_sign": "Th22-074-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchawaradit Pier",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.74968,
+    "long": 100.489534
+  },
+  {
+    "no": 170,
+    "code_sign": "Th22-075-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Baan Chao Phraya",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763295,
+    "long": 100.494981
+  },
+  {
+    "no": 171,
+    "code_sign": "Th22-076-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Baan Phra Athit",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.76307,
+    "long": 100.494827
+  },
+  {
+    "no": 172,
+    "code_sign": "Th22-077-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phra Sumen Fort",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763785,
+    "long": 100.495689
+  },
+  {
+    "no": 173,
+    "code_sign": "Th22-078-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mahakan Fort",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.755819,
+    "long": 100.505507
+  },
+  {
+    "no": 174,
+    "code_sign": "Th22-079-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bangkok National Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.757553,
+    "long": 100.49265
+  },
+  {
+    "no": 175,
+    "code_sign": "Th22-080-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Museum of Art Gallery",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.758893,
+    "long": 100.49365
+  },
+  {
+    "no": 176,
+    "code_sign": "Th22-082-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bang Khun Phrom Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.766188,
+    "long": 100.502281
+  },
+  {
+    "no": 177,
+    "code_sign": "Th22-083-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tri Thotsathep Worawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.761644,
+    "long": 100.503635
+  },
+  {
+    "no": 178,
+    "code_sign": "Th22-084-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Thepthidaram Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.753335,
+    "long": 100.504759
+  },
+  {
+    "no": 179,
+    "code_sign": "Th22-085-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Makutkasatriyaram Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.765164,
+    "long": 100.507565
+  },
+  {
+    "no": 180,
+    "code_sign": "Th22-086-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Ratchanaddaram Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.755046,
+    "long": 100.505152
+  },
+  {
+    "no": 181,
+    "code_sign": "Th22-087-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "City Pillar Shrine",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.75239,
+    "long": 100.493906
+  },
+  {
+    "no": 182,
+    "code_sign": "Th22-091-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Queen Sirikit Art Gallery ",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756413,
+    "long": 100.505009
+  },
+  {
+    "no": 183,
+    "code_sign": "Th22-093-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thip Sam Hang Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.760988,
+    "long": 100.499639
+  },
+  {
+    "no": 184,
+    "code_sign": "Th43-014-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lao Ban Flute",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731455,
+    "long": 100.490505
+  },
+  {
+    "no": 185,
+    "code_sign": "Th43-017-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chao Phraya River",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738481,
+    "long": 100.497193
+  },
+  {
+    "no": 186,
+    "code_sign": "Th43-020-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Kalayanamit Woramahaviharn",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.739152,
+    "long": 100.491566
+  },
+  {
+    "no": 187,
+    "code_sign": "Th43-021-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wian An Keng Shrine",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.740327,
+    "long": 100.492767
+  },
+  {
+    "no": 188,
+    "code_sign": "Th43-025-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phlu Market",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.722359,
+    "long": 100.477113
+  },
+  {
+    "no": 189,
+    "code_sign": "Th03-028-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Suwannaram Ratchaworawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763809,
+    "long": 100.473888
+  },
+  {
+    "no": 190,
+    "code_sign": "Th09-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Thawi Watthana",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.707691,
+    "long": 100.373735
+  },
+  {
+    "no": 191,
+    "code_sign": "Th09-003-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Thawi Watthana",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.693103,
+    "long": 100.380603
+  },
+  {
+    "no": 192,
+    "code_sign": "Th09-004-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Phasi Charoen",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.677809,
+    "long": 100.339546
+  },
+  {
+    "no": 193,
+    "code_sign": "Th09-005-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phetkasem Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.704786,
+    "long": 100.33266
+  },
+  {
+    "no": 194,
+    "code_sign": "Th09-006-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phetkasem Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.70778,
+    "long": 100.373692
+  },
+  {
+    "no": 195,
+    "code_sign": "Th17-005-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Thawi Watthana",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.751399,
+    "long": 100.352719
+  },
+  {
+    "no": 196,
+    "code_sign": "Th17-006-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "house museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.797268,
+    "long": 100.391675
+  },
+  {
+    "no": 197,
+    "code_sign": "Th25-008-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "bicycle house",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.795028,
+    "long": 100.456294
+  },
+  {
+    "no": 198,
+    "code_sign": "Th42-015-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phetkasem Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.728187,
+    "long": 100.481115
+  },
+  {
+    "no": 199,
+    "code_sign": "Th42-016-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Hong Rattanaram Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738928,
+    "long": 100.488332
+  },
+  {
+    "no": 200,
+    "code_sign": "Th42-017-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Sang Krachai Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.733954,
+    "long": 100.484134
+  },
+  {
+    "no": 201,
+    "code_sign": "Th01-012-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Prem Prachakorn",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.773355,
+    "long": 100.518866
+  },
+  {
+    "no": 202,
+    "code_sign": "Th01-017-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phitsanulok Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.757389,
+    "long": 100.520224
+  },
+  {
+    "no": 203,
+    "code_sign": "Th01-021-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tha Wasukri",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.773618,
+    "long": 100.506112
+  },
+  {
+    "no": 204,
+    "code_sign": "Th01-022-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Government House",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763844,
+    "long": 100.512688
+  },
+  {
+    "no": 205,
+    "code_sign": "Th01-024-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Vajira Hospital",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.780189,
+    "long": 100.509183
+  },
+  {
+    "no": 206,
+    "code_sign": "Th01-025-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Vajiravudh Wittayalai School",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.777236,
+    "long": 100.519087
+  },
+  {
+    "no": 207,
+    "code_sign": "Th01-026-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chandrakasem Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.764999,
+    "long": 100.509766
+  },
+  {
+    "no": 208,
+    "code_sign": "Th01-027-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Parusakawan Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.768124,
+    "long": 100.511183
+  },
+  {
+    "no": 209,
+    "code_sign": "Th01-030-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "National Library",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.771706,
+    "long": 100.505245
+  },
+  {
+    "no": 210,
+    "code_sign": "Th28-008-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Phadung Krung Kasem",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731851,
+    "long": 100.515348
+  },
+  {
+    "no": 211,
+    "code_sign": "Th28-009-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Narathiwat Ratchanakarin Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.728421,
+    "long": 100.527124
+  },
+  {
+    "no": 212,
+    "code_sign": "Th28-011-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Silom Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.722485,
+    "long": 100.517732
+  },
+  {
+    "no": 213,
+    "code_sign": "Th28-013-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Christchurch Church",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.724121,
+    "long": 100.534979
+  },
+  {
+    "no": 214,
+    "code_sign": "Th28-014-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Assumption Church",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.723722,
+    "long": 100.515379
+  },
+  {
+    "no": 215,
+    "code_sign": "Th28-015-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ban U Mosque",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.720399,
+    "long": 100.51433
+  },
+  {
+    "no": 216,
+    "code_sign": "Th28-016-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mirasuddin Mosque",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.725269,
+    "long": 100.522988
+  },
+  {
+    "no": 217,
+    "code_sign": "Th28-017-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Harun Mosque",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.725015,
+    "long": 100.515054
+  },
+  {
+    "no": 218,
+    "code_sign": "Th28-018-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lertsin Hospital",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.722451,
+    "long": 100.517706
+  },
+  {
+    "no": 219,
+    "code_sign": "Th28-019-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "customs",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.724842,
+    "long": 100.514279
+  },
+  {
+    "no": 220,
+    "code_sign": "Th28-020-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Neilson Hays Library",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.727352,
+    "long": 100.523317
+  },
+  {
+    "no": 221,
+    "code_sign": "Th11-024-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Pune crematorium intersection",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752285,
+    "long": 100.505438
+  },
+  {
+    "no": 222,
+    "code_sign": "Th11-025-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "King Suek Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.749013,
+    "long": 100.516752
+  },
+  {
+    "no": 223,
+    "code_sign": "Th24-005-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "National Science Center for Education",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.721149,
+    "long": 100.582677
+  },
+  {
+    "no": 224,
+    "code_sign": "Th49-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Phasi Charoen",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.695342,
+    "long": 100.392528
+  },
+  {
+    "no": 225,
+    "code_sign": "Th49-003-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phetkasem Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.707821,
+    "long": 100.373829
+  },
+  {
+    "no": 226,
+    "code_sign": "Th36-006-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Phasi Charoen",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.721842,
+    "long": 100.46937
+  },
+  {
+    "no": 227,
+    "code_sign": "Th36-008-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Nimmanoradee Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.707795,
+    "long": 100.42702
+  },
+  {
+    "no": 228,
+    "code_sign": "Th39-005-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Soi Suan Phlu",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.723347,
+    "long": 100.536721
+  },
+  {
+    "no": 229,
+    "code_sign": "Th39-007-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sathorn Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.720182,
+    "long": 100.525177
+  },
+  {
+    "no": 230,
+    "code_sign": "Th39-010-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Suthiwararam Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.712716,
+    "long": 100.512587
+  },
+  {
+    "no": 231,
+    "code_sign": "Th39-011-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Teochew Association of Thailand",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.712304,
+    "long": 100.524087
+  },
+  {
+    "no": 232,
+    "code_sign": "Th44-009-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chulalongkorn University",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738576,
+    "long": 100.529733
+  },
+  {
+    "no": 233,
+    "code_sign": "Th44-012-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Royal Athletics Club",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738025,
+    "long": 100.534812
+  },
+  {
+    "no": 234,
+    "code_sign": "Th44-013-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Saovabha Institute",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731554,
+    "long": 100.532422
+  },
+  {
+    "no": 235,
+    "code_sign": "Th44-014-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Hua Lamphong Railway Station",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738215,
+    "long": 100.516632
+  },
+  {
+    "no": 236,
+    "code_sign": "Th47-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kite making community",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.860125,
+    "long": 100.582721
+  },
+  {
+    "no": 237,
+    "code_sign": "Th47-003-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lak Si Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.888314,
+    "long": 100.582783
+  },
+  {
+    "no": 238,
+    "code_sign": "Th05-010-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thai Prosecutor's Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.81962,
+    "long": 100.575112
+  },
+  {
+    "no": 239,
+    "code_sign": "Th20-007-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Charansanitwong Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.80809,
+    "long": 100.511193
+  },
+  {
+    "no": 240,
+    "code_sign": "Th06-005-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "western cemetery",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.705726,
+    "long": 100.506487
+  },
+  {
+    "no": 241,
+    "code_sign": "Th10-012-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chiang Mai Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731276,
+    "long": 100.505371
+  },
+  {
+    "no": 242,
+    "code_sign": "Th10-013-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tha Din Daeng Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731989,
+    "long": 100.502171
+  },
+  {
+    "no": 243,
+    "code_sign": "Th10-015-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Panchamit Fort",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.730825,
+    "long": 100.509706
+  },
+  {
+    "no": 244,
+    "code_sign": "Th10-018-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Phitchayatikaram",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.733699,
+    "long": 100.497993
+  },
+  {
+    "no": 245,
+    "code_sign": "Th10-019-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Guan Yu Shrine",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.737523,
+    "long": 100.500052
+  },
+  {
+    "no": 246,
+    "code_sign": "Th10-020-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Morality Propagation Association \"Tek Ka\" Ji Jin Koh",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.730747,
+    "long": 100.506993
+  },
+  {
+    "no": 247,
+    "code_sign": "Th10-022-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Princess Maha Chakri Sirindhorn Park",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.736278,
+    "long": 100.499807
+  },
+  {
+    "no": 248,
+    "code_sign": "Th27-017-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Kanmatuiyaram",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.742327,
+    "long": 100.508415
+  },
+  {
+    "no": 249,
+    "code_sign": "Th02-008-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phaya Thai Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.767654,
+    "long": 100.532391
+  },
+  {
+    "no": 250,
+    "code_sign": "Th02-009-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Geology Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763545,
+    "long": 100.526595
+  },
+  {
+    "no": 251,
+    "code_sign": "Th02-010-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thai Labor Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.753048,
+    "long": 100.549376
+  },
+  {
+    "no": 252,
+    "code_sign": "Th02-011-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Suan Pakkad Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.757054,
+    "long": 100.537589
+  },
+  {
+    "no": 253,
+    "code_sign": "Th15-001-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chao Phraya Bodindecha (Sing Singhaseni) Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.770731,
+    "long": 100.614978
+  },
+  {
+    "no": 254,
+    "code_sign": "Th15-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Samakkhitham",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.78453,
+    "long": 100.59911
+  },
+  {
+    "no": 255,
+    "code_sign": "Th31-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chong Nonsi Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.692857,
+    "long": 100.545768
+  },
+  {
+    "no": 256,
+    "code_sign": "Th21-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sathian Dhammasathan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.856481,
+    "long": 100.64092
+  },
+  {
+    "no": 257,
+    "code_sign": "NO-01-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Captain Bush Alley",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.728443,
+    "long": 100.514194
+  },
+  {
+    "no": 258,
+    "code_sign": "NO-02-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tri Phet Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.742075,
+    "long": 100.498578
+  },
+  {
+    "no": 259,
+    "code_sign": "NO-03-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Luk Luang Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756719,
+    "long": 100.516534
+  },
+  {
+    "no": 260,
+    "code_sign": "NO-04-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Baan Manangkasila",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.75691,
+    "long": 100.519264
+  },
+  {
+    "no": 261,
+    "code_sign": "NO-05-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ban Mo",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.747048,
+    "long": 100.497553
+  },
+  {
+    "no": 262,
+    "code_sign": "NO-06-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Philatelic Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.793909,
+    "long": 100.549584
+  },
+  {
+    "no": 263,
+    "code_sign": "NO-07-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bank of Thailand Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.767474,
+    "long": 100.500259
+  },
+  {
+    "no": 264,
+    "code_sign": "NO-08-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "King Prajadhipok's Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756178,
+    "long": 100.506221
+  },
+  {
+    "no": 265,
+    "code_sign": "NO-09-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Correctional Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.748362,
+    "long": 100.503362
+  },
+  {
+    "no": 266,
+    "code_sign": "NO-10-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Woradit Palace Museum ",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.75641,
+    "long": 100.512246
+  },
+  {
+    "no": 267,
+    "code_sign": "NO-11-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phattharawadee Theater",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.75285,
+    "long": 100.486125
+  },
+  {
+    "no": 268,
+    "code_sign": "NO-12-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Silpakorn University Wang Tha Phra",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752471,
+    "long": 100.49013
+  },
+  {
+    "no": 269,
+    "code_sign": "NO-13-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Separate cow pen",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.757053,
+    "long": 100.498999
+  },
+  {
+    "no": 270,
+    "code_sign": "NO-14-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chai Building Intersection",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.769223,
+    "long": 100.529065
+  },
+  {
+    "no": 271,
+    "code_sign": "NO-15-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Separate flashlight",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.754965,
+    "long": 100.469647
+  },
+  {
+    "no": 272,
+    "code_sign": "NO-16-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchathewi Intersection",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.75322,
+    "long": 100.531474
+  },
+  {
+    "no": 273,
+    "code_sign": "NO-17-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Separate prison",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.749264,
+    "long": 100.503725
+  },
+  {
+    "no": 274,
+    "code_sign": "NO-18-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Rajamangala Stadium",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.75501,
+    "long": 100.625149
+  },
+  {
+    "no": 275,
+    "code_sign": "NO-19-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Maliwan Palace",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.762241,
+    "long": 100.493559
+  },
+  {
+    "no": 276,
+    "code_sign": "NO-20-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chandraram Worawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.722125,
+    "long": 100.481319
+  },
+  {
+    "no": 277,
+    "code_sign": "NO-21-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wang Disanukaram",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.748756,
+    "long": 100.508458
+  },
+  {
+    "no": 278,
+    "code_sign": "NO-22-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bang Khun Thian Klang Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.69603,
+    "long": 100.464786
+  },
+  {
+    "no": 279,
+    "code_sign": "NO-23-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bang Khun Thian Nok Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.697222,
+    "long": 100.46591
+  },
+  {
+    "no": 280,
+    "code_sign": "NO-24-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Bamphen Chin Phon Ta, Wat Parinayaka Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.741989,
+    "long": 100.507648
+  },
+  {
+    "no": 281,
+    "code_sign": "NO-25-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Phothi Nimit",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.721048,
+    "long": 100.484049
+  },
+  {
+    "no": 282,
+    "code_sign": "NO-26-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sawetchat Worawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.714459,
+    "long": 100.504754
+  },
+  {
+    "no": 283,
+    "code_sign": "NO-27-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Hiranruji Worawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.728709,
+    "long": 100.490866
+  },
+  {
+    "no": 284,
+    "code_sign": "NO-28-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sam Nai Keng Shrine",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.735145,
+    "long": 100.503182
+  },
+  {
+    "no": 285,
+    "code_sign": "NO-29-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Guangdong Shrine",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.741753,
+    "long": 100.510718
+  },
+  {
+    "no": 286,
+    "code_sign": "NO-30-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Xiang Kong Shrine",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.736105,
+    "long": 100.512255
+  },
+  {
+    "no": 287,
+    "code_sign": "NO-31-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Guan Yu Shrine",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.737526,
+    "long": 100.500054
+  },
+  {
+    "no": 288,
+    "code_sign": "NO-32-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Siam Association under Royal Patronage",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.739132,
+    "long": 100.561702
+  },
+  {
+    "no": 289,
+    "code_sign": "NO-33-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "14 October Memorial",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.757039,
+    "long": 100.499232
+  },
+  {
+    "no": 290,
+    "code_sign": "Th10-001-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Thong Noppakun",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.730724,
+    "long": 100.506993
+  },
+  {
+    "no": 291,
+    "code_sign": "Th10-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Somdejchaopraya Hospital",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731314,
+    "long": 100.504944
+  },
+  {
+    "no": 292,
+    "code_sign": "Th10-003-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Thong Thammachat",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.733604,
+    "long": 100.505869
+  },
+  {
+    "no": 293,
+    "code_sign": "Th04-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Nang Nong Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.703022,
+    "long": 100.467066
+  },
+  {
+    "no": 294,
+    "code_sign": "Th25-001-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchadathithan Worawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.758079,
+    "long": 100.453788
+  },
+  {
+    "no": 295,
+    "code_sign": "Th50-001-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bang Bon Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.642104,
+    "long": 100.379366
+  },
+  {
+    "no": 296,
+    "code_sign": "Th43-001-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Prayurawongsawat Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.737547,
+    "long": 100.496571
+  },
+  {
+    "no": 297,
+    "code_sign": "Th43-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Intharam Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.722734,
+    "long": 100.483429
+  },
+  {
+    "no": 298,
+    "code_sign": "Th43-003-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Welu Rachin Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.72499,
+    "long": 100.485959
+  },
+  {
+    "no": 299,
+    "code_sign": "Th03-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Suwankhiri Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.780056,
+    "long": 100.467754
+  },
+  {
+    "no": 300,
+    "code_sign": "Th03-003-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Nai Rong",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.774404,
+    "long": 100.471763
+  },
+  {
+    "no": 301,
+    "code_sign": "Th03-004-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Srisudaram Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.767413,
+    "long": 100.473012
+  },
+  {
+    "no": 302,
+    "code_sign": "Th03-007-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Dusidaram Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.764153,
+    "long": 100.488702
+  },
+  {
+    "no": 303,
+    "code_sign": "Th03-009-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ban Khao Mao",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.760523,
+    "long": 100.476532
+  },
+  {
+    "no": 304,
+    "code_sign": "Th42-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Nakhonban",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.744201,
+    "long": 100.486381
+  },
+  {
+    "no": 305,
+    "code_sign": "Th42-005-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tonson Mosque",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.74007,
+    "long": 100.48893
+  },
+  {
+    "no": 306,
+    "code_sign": "Th28-001-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bangkokian Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.728351,
+    "long": 100.518039
+  },
+  {
+    "no": 307,
+    "code_sign": "Th28-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phra Sri Maha Uma Devi Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.724352,
+    "long": 100.522897
+  },
+  {
+    "no": 308,
+    "code_sign": "Th30-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phromwongsaram Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.775646,
+    "long": 100.561936
+  },
+  {
+    "no": 309,
+    "code_sign": "Th44-003-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Jim Thompson Thai House Museum",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.746756,
+    "long": 100.528363
+  },
+  {
+    "no": 310,
+    "code_sign": "Th02-003-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Peace Park",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763281,
+    "long": 100.54159
+  },
+  {
+    "no": 311,
+    "code_sign": "Th31-001-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Rat Satthatham",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.819559,
+    "long": 100.696522
+  },
+  {
+    "no": 312,
+    "code_sign": "Th47-001-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lak Si Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.887642,
+    "long": 100.58243
+  },
+  {
+    "no": 313,
+    "code_sign": "Th18-001-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Anam Nikayaram Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.811314,
+    "long": 100.521813
+  },
+  {
+    "no": 314,
+    "code_sign": "Th18-002-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Saphan Mai Community (Hua Khon)",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.817765,
+    "long": 100.535936
+  },
+  {
+    "no": 315,
+    "code_sign": "Th18-004-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Rama 6 Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.812076,
+    "long": 100.513957
+  },
+  {
+    "no": 316,
+    "code_sign": "Th27-001-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phittayasathien Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.73183,
+    "long": 100.515318
+  },
+  {
+    "no": 317,
+    "code_sign": "Th27-002-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kalwara Church",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731821,
+    "long": 100.513604
+  },
+  {
+    "no": 318,
+    "code_sign": "Th27-003-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sampeng",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.742275,
+    "long": 100.506837
+  },
+  {
+    "no": 319,
+    "code_sign": "Th27-004-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Samphanthawongsaram Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738162,
+    "long": 100.510538
+  },
+  {
+    "no": 320,
+    "code_sign": "Th11-001-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mahatthai Uthit Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.755751,
+    "long": 100.506146
+  },
+  {
+    "no": 321,
+    "code_sign": "Th11-002-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "S.A.B Intersection",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.745798,
+    "long": 100.505519
+  },
+  {
+    "no": 322,
+    "code_sign": "Th01-001-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phan Phop Lila Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.757094,
+    "long": 100.495137
+  },
+  {
+    "no": 323,
+    "code_sign": "Th01-002-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Benchamabophit Dusitwanaram Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.766355,
+    "long": 100.514712
+  },
+  {
+    "no": 324,
+    "code_sign": "Th01-003-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Conception Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.776784,
+    "long": 100.504045
+  },
+  {
+    "no": 325,
+    "code_sign": "Th01-005-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wisukamnaruman Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.766465,
+    "long": 100.506572
+  },
+  {
+    "no": 326,
+    "code_sign": "Th22-001-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tha Chang Wang Na",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.760738,
+    "long": 100.491761
+  },
+  {
+    "no": 327,
+    "code_sign": "Th22-002-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tha Prachan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.75642,
+    "long": 100.489396
+  },
+  {
+    "no": 328,
+    "code_sign": "Th22-003-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Charoen Rat Bridge 31",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.742951,
+    "long": 100.495002
+  },
+  {
+    "no": 329,
+    "code_sign": "Th22-004-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Pak Khlong Talat Market",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.742951,
+    "long": 100.495002
+  },
+  {
+    "no": 330,
+    "code_sign": "Th22-005-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Drum tower",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.74602,
+    "long": 100.494418
+  },
+  {
+    "no": 331,
+    "code_sign": "Th22-007-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Year of the Pig Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.749726,
+    "long": 100.496192
+  },
+  {
+    "no": 332,
+    "code_sign": "Th22-008-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bridge 6",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.748234,
+    "long": 100.496427
+  },
+  {
+    "no": 333,
+    "code_sign": "Th22-010-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Rapeepattanaphak Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.748993,
+    "long": 100.504478
+  },
+  {
+    "no": 334,
+    "code_sign": "Th22-012-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Buranasiri Mattayaram Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.755669,
+    "long": 100.495578
+  },
+  {
+    "no": 335,
+    "code_sign": "Th22-013-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchaburana Ratchaworawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.741815,
+    "long": 100.498756
+  },
+  {
+    "no": 336,
+    "code_sign": "Th22-017-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Poh Chang School",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.744172,
+    "long": 100.499091
+  },
+  {
+    "no": 337,
+    "code_sign": "Th22-020-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Bowonniwet Vihara Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.760229,
+    "long": 100.499352
+  },
+  {
+    "no": 338,
+    "code_sign": "Th22-022-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Chana Songkhram Ratchawora Mahawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.760075,
+    "long": 100.495918
+  },
+  {
+    "no": 339,
+    "code_sign": "Th22-023-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phanfa Lilat Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756106,
+    "long": 100.505952
+  },
+  {
+    "no": 340,
+    "code_sign": "Th22-024-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Mahakarnparam Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.754903,
+    "long": 100.498665
+  },
+  {
+    "no": 341,
+    "code_sign": "Th22-025-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Talaphat Suksa School",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752499,
+    "long": 100.497478
+  },
+  {
+    "no": 342,
+    "code_sign": "Th22-027-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Suthat Thepwararam Ratchawora Mahawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.751658,
+    "long": 100.501061
+  },
+  {
+    "no": 343,
+    "code_sign": "Th22-029-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sala Chaloem Krung",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.746887,
+    "long": 100.499731
+  },
+  {
+    "no": 344,
+    "code_sign": "Th22-030-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Rommaninat Park",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.748928,
+    "long": 100.501651
+  },
+  {
+    "no": 345,
+    "code_sign": "Th22-032-",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Pathom Borom Rachanuwan Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.738362,
+    "long": 100.497212
+  },
+  {
+    "no": 346,
+    "code_sign": "Th22-033-2004",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Khlong Khu Mueang Derm",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.74969,
+    "long": 100.496207
+  },
+  {
+    "no": 347,
+    "code_sign": "Th10-007-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Grass road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.730094,
+    "long": 100.508301
+  },
+  {
+    "no": 348,
+    "code_sign": "Th10-008-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Somdej Chao Phraya Canal",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.73421,
+    "long": 100.496102
+  },
+  {
+    "no": 349,
+    "code_sign": "Th10-010-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "small roundabout",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.734547,
+    "long": 100.496272
+  },
+  {
+    "no": 350,
+    "code_sign": "Th04-004-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Sai",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.689725,
+    "long": 100.458087
+  },
+  {
+    "no": 351,
+    "code_sign": "Th17-001-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Parunawas Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.803058,
+    "long": 100.335751
+  },
+  {
+    "no": 352,
+    "code_sign": "Th34-001-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Buddhabucha Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.650776,
+    "long": 100.473971
+  },
+  {
+    "no": 353,
+    "code_sign": "Th37-002-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bang Kradi Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.600306,
+    "long": 100.405777
+  },
+  {
+    "no": 354,
+    "code_sign": "Th37-003-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mon community, Bang Kradi",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.600306,
+    "long": 100.405777
+  },
+  {
+    "no": 355,
+    "code_sign": "Th37-004-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mon Arts and Cultural Center, Bang Kradi",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.600306,
+    "long": 100.405777
+  },
+  {
+    "no": 356,
+    "code_sign": "Th36-001-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Naga Prok Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.717072,
+    "long": 100.467012
+  },
+  {
+    "no": 357,
+    "code_sign": "Th36-002-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Khuha Sawan Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.732435,
+    "long": 100.462047
+  },
+  {
+    "no": 358,
+    "code_sign": "Th36-003-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Apson Sawan Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.720228,
+    "long": 100.469564
+  },
+  {
+    "no": 359,
+    "code_sign": "Th36-004-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Pak Nam Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.721835,
+    "long": 100.469389
+  },
+  {
+    "no": 360,
+    "code_sign": "Th26-002-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bang Pakok Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.682837,
+    "long": 100.495361
+  },
+  {
+    "no": 361,
+    "code_sign": "Th26-003-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Prasert Sutthawat",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.67953,
+    "long": 100.503296
+  },
+  {
+    "no": 362,
+    "code_sign": "Th43-007-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Buppharam Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.735896,
+    "long": 100.49235
+  },
+  {
+    "no": 363,
+    "code_sign": "Th43-010-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thai Art House",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.73234,
+    "long": 100.489584
+  },
+  {
+    "no": 364,
+    "code_sign": "Th43-013-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kantathararam Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.718841,
+    "long": 100.479369
+  },
+  {
+    "no": 365,
+    "code_sign": "Th03-013-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chao Am Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.775121,
+    "long": 100.46612
+  },
+  {
+    "no": 366,
+    "code_sign": "Th03-014-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Bang Khun Non Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.768539,
+    "long": 100.46979
+  },
+  {
+    "no": 367,
+    "code_sign": "Th03-015-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Sutthawat",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.760527,
+    "long": 100.476567
+  },
+  {
+    "no": 368,
+    "code_sign": "Th03-016-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Phraya Tham",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.748135,
+    "long": 100.484135
+  },
+  {
+    "no": 369,
+    "code_sign": "Th42-009-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Plai Na Cemetery",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.737447,
+    "long": 100.485663
+  },
+  {
+    "no": 370,
+    "code_sign": "Th42-010-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Kudi Charoenpas",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.7367,
+    "long": 100.486759
+  },
+  {
+    "no": 371,
+    "code_sign": "Th42-011-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Itsaraphap Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.736469,
+    "long": 100.487104
+  },
+  {
+    "no": 372,
+    "code_sign": "Th42-012-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Pho Sam Ton Intersection",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.740416,
+    "long": 100.48398
+  },
+  {
+    "no": 373,
+    "code_sign": "Th20-002-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phakhininat Worawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.780156,
+    "long": 100.499112
+  },
+  {
+    "no": 374,
+    "code_sign": "Th20-004-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Khaopadi",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.772054,
+    "long": 100.496053
+  },
+  {
+    "no": 375,
+    "code_sign": "Th06-001-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchasingkhon Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.705256,
+    "long": 100.505937
+  },
+  {
+    "no": 376,
+    "code_sign": "Th06-002-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Phai Ngoen Chotanaram",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.70114,
+    "long": 100.524426
+  },
+  {
+    "no": 377,
+    "code_sign": "Th45-002-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Phomen Khunaram",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.700424,
+    "long": 100.539289
+  },
+  {
+    "no": 378,
+    "code_sign": "Th28-007-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mahapruttharam Worawihan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.732821,
+    "long": 100.515877
+  },
+  {
+    "no": 379,
+    "code_sign": "Th41-001-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Benjasiri Park",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.731872,
+    "long": 100.567486
+  },
+  {
+    "no": 380,
+    "code_sign": "Th39-003-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Prok",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.712788,
+    "long": 100.52151
+  },
+  {
+    "no": 381,
+    "code_sign": "Th08-002-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Krathum Suea Pla",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.723429,
+    "long": 100.689671
+  },
+  {
+    "no": 382,
+    "code_sign": "Th08-004-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Daru Samut Takin Mosque",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.716241,
+    "long": 100.65283
+  },
+  {
+    "no": 383,
+    "code_sign": "Th24-001-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Thammamongkol Thaobunnonthawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.687881,
+    "long": 100.614925
+  },
+  {
+    "no": 384,
+    "code_sign": "Th21-001-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Phra Sorn Mahathat Woramahawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.871373,
+    "long": 100.594093
+  },
+  {
+    "no": 385,
+    "code_sign": "Th44-006-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Boromniwat Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.750973,
+    "long": 100.519715
+  },
+  {
+    "no": 386,
+    "code_sign": "Th44-008-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Banthat Thong Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.73591,
+    "long": 100.521678
+  },
+  {
+    "no": 387,
+    "code_sign": "Th02-006-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Phraya Yang",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752161,
+    "long": 100.522016
+  },
+  {
+    "no": 388,
+    "code_sign": "Th40-002-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Lat Phrao Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.80408,
+    "long": 100.590435
+  },
+  {
+    "no": 389,
+    "code_sign": "Th07-002-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Suwan Prasit Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.805932,
+    "long": 100.662527
+  },
+  {
+    "no": 390,
+    "code_sign": "Th29-001-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Minburi District Office",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.813474,
+    "long": 100.731593
+  },
+  {
+    "no": 391,
+    "code_sign": "Th29-002-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Miniature Ship Museum and Miniature Shipyard",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.793918,
+    "long": 100.715862
+  },
+  {
+    "no": 392,
+    "code_sign": "Th05-003-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Samian Nari Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.839596,
+    "long": 100.556185
+  },
+  {
+    "no": 393,
+    "code_sign": "Th05-004-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "railway park",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.803112,
+    "long": 100.550183
+  },
+  {
+    "no": 394,
+    "code_sign": "Th05-005-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chatuchak Park",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.810107,
+    "long": 100.557891
+  },
+  {
+    "no": 395,
+    "code_sign": "Th18-005-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Soi Thong",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.813723,
+    "long": 100.517977
+  },
+  {
+    "no": 396,
+    "code_sign": "Th18-008-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Wetwan Thammawas",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.816189,
+    "long": 100.529299
+  },
+  {
+    "no": 397,
+    "code_sign": "Th27-008-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Pathumkongkha Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.736393,
+    "long": 100.510856
+  },
+  {
+    "no": 398,
+    "code_sign": "Th27-010-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Songwat Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.736231,
+    "long": 100.513435
+  },
+  {
+    "no": 399,
+    "code_sign": "Th27-011-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ratchawong Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.74225,
+    "long": 100.506833
+  },
+  {
+    "no": 400,
+    "code_sign": "Th27-012-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Yaowarat Road",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.737549,
+    "long": 100.512903
+  },
+  {
+    "no": 401,
+    "code_sign": "Th27-015-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Bophitphimuk Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.741496,
+    "long": 100.502501
+  },
+  {
+    "no": 402,
+    "code_sign": "Th11-004-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Saket Ratchaworamahawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.753659,
+    "long": 100.509151
+  },
+  {
+    "no": 403,
+    "code_sign": "Th11-005-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Ban Bat Community",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752025,
+    "long": 100.50659
+  },
+  {
+    "no": 404,
+    "code_sign": "Th11-006-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Sommanat Wihan Ratchawora Mahawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.761331,
+    "long": 100.511378
+  },
+  {
+    "no": 405,
+    "code_sign": "Th11-008-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Thepsirinthrawasran Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.746189,
+    "long": 100.513069
+  },
+  {
+    "no": 406,
+    "code_sign": "Th11-009-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Damrongsathit Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.746806,
+    "long": 100.503989
+  },
+  {
+    "no": 407,
+    "code_sign": "Th11-010-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phlapphla Chai Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.745664,
+    "long": 100.512105
+  },
+  {
+    "no": 408,
+    "code_sign": "Th11-011-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sunthon Thammathan Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.758011,
+    "long": 100.511192
+  },
+  {
+    "no": 409,
+    "code_sign": "Th11-013-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Sitaram Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.75486,
+    "long": 100.510306
+  },
+  {
+    "no": 410,
+    "code_sign": "Th11-014-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Kanikaphon",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.744206,
+    "long": 100.510366
+  },
+  {
+    "no": 411,
+    "code_sign": "Th11-015-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chaloem Thani Cinema",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.746902,
+    "long": 100.499771
+  },
+  {
+    "no": 412,
+    "code_sign": "Th11-016-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thewakam Rangrak Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.759974,
+    "long": 100.512911
+  },
+  {
+    "no": 413,
+    "code_sign": "Th11-018-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Mensri Intersection",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.751892,
+    "long": 100.508482
+  },
+  {
+    "no": 414,
+    "code_sign": "Th11-019-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Chutrapak Rangsarit Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756674,
+    "long": 100.51614
+  },
+  {
+    "no": 415,
+    "code_sign": "Th11-020-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "King Suek Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.748998,
+    "long": 100.516759
+  },
+  {
+    "no": 416,
+    "code_sign": "Th11-021-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Charoenrat Bridge 32",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.75282,
+    "long": 100.517189
+  },
+  {
+    "no": 417,
+    "code_sign": "Th01-007-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Thewarat Kunchorn Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.772132,
+    "long": 100.502381
+  },
+  {
+    "no": 418,
+    "code_sign": "Th22-034-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Tha Tien",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.746666,
+    "long": 100.490714
+  },
+  {
+    "no": 419,
+    "code_sign": "Th22-035-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Charoensri Bridge 34",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.754817,
+    "long": 100.495662
+  },
+  {
+    "no": 420,
+    "code_sign": "Th22-037-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Thammasat University",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756659,
+    "long": 100.492374
+  },
+  {
+    "no": 421,
+    "code_sign": "Th22-038-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Mahathat Yuwarat Rangsarit Ratchawora Mahawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.755331,
+    "long": 100.492031
+  },
+  {
+    "no": 422,
+    "code_sign": "Th22-039-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Phra Chetuphon Wimon Mangkhalaram Ratchaworamahawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.747081,
+    "long": 100.49416
+  },
+  {
+    "no": 423,
+    "code_sign": "Th22-040-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Royal Palace Police Station",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.743552,
+    "long": 100.494692
+  },
+  {
+    "no": 424,
+    "code_sign": "Th22-042-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Ratchapradit Sathitmahasimaram Ratchaworawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.749826,
+    "long": 100.496015
+  },
+  {
+    "no": 425,
+    "code_sign": "Th22-044-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Pig Monument",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.749758,
+    "long": 100.496134
+  },
+  {
+    "no": 426,
+    "code_sign": "Th22-049-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Democracy Monument",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.756498,
+    "long": 100.50149
+  },
+  {
+    "no": 427,
+    "code_sign": "Th22-052-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phraeng Nara",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752356,
+    "long": 100.496461
+  },
+  {
+    "no": 428,
+    "code_sign": "Th22-053-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Phraeng Phu Thon",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752048,
+    "long": 100.497775
+  },
+  {
+    "no": 429,
+    "code_sign": "Th22-054-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Temple (Brahmin Church)",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.752228,
+    "long": 100.500842
+  },
+  {
+    "no": 430,
+    "code_sign": "Th22-055-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Wat Ratchanaddaram Worawihan",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.755068,
+    "long": 100.50516
+  },
+  {
+    "no": 431,
+    "code_sign": "Th22-056-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Intharawiharn Temple",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.722736,
+    "long": 100.48341
+  },
+  {
+    "no": 432,
+    "code_sign": "Th22-057-2005",
+    "n_sign": "Signs interpreting tourist attractions",
+    "location": "Makkhawan Rangsan Bridge",
+    "organization": "Traffic Engineering Office",
+    "s_status": "normal",
+    "lat": 13.763511,
+    "long": 100.50928
+  }
+]
